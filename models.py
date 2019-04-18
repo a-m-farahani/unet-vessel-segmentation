@@ -74,7 +74,7 @@ class TinyUNet_AAFx1(nn.Module):
 
         result = self.output_layer(r3c2)
         result = torch.sigmoid(result)
-        #result = self.threshold(result)
+        result = self.threshold(result)
         return result       
 
     def concat(self,down,left):
