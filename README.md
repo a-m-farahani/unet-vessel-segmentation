@@ -15,7 +15,7 @@ Different Adaptive Activation Functions of the model trained on DRIVE dataset.
 </p>
 
 <br/>
-<b>esults:</b>
+<b>Results:</b>
 <p>
   <img src="https://github.com/a-m-farahani/unet-vessel-segmentation/blob/master/images/chasedb_test.png" height="200" title="Vessel Segmentation Result on CHASEDB dataset">
 </p>
